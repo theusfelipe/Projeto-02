@@ -41,16 +41,40 @@ p strong {
 
 
 #footer a {
+    font-weight: bold;
+    color: #3f3d56;
+    text-decoration: none;
+    line-height: 20px;
+}
+
+
+#footer a + a {
     color: #3F3D56;
     text-decoration: none;
     font-weight: 700;
     font-size: 15px;
+    margin-left: 42px;
+    line-height: 70px;
+    
+    
+}
+
+#footer a:hover {
+    transition: 1s;
+    color: violet;
+}
+
+
+
+#footer a + a:hover {
+    transition: 1s;
+    color:violet; 
 }
 
 #wave {
     position: absolute;
     width: 100vw;
-    
     bottom: 0;
     right: 0;
+    height: 100px;  
 }
