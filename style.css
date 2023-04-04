@@ -46,3 +46,11 @@ p strong {
     font-weight: 700;
     font-size: 15px;
 }
+
+#wave {
+    position: absolute;
+    width: 100vw;
+    
+    bottom: 0;
+    right: 0;
+}
