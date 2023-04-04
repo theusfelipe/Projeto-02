@@ -60,16 +60,19 @@ p strong {
 }
 
 #footer a:hover {
-    transition: 1s;
+    transition: 0.5s;
     color: violet;
 }
 
 
 
 #footer a + a:hover {
-    transition: 1s;
+    transition: 0.5s;
     color:violet; 
 }
+
+
+
 
 #wave {
     position: absolute;
