@@ -1,0 +1,50 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}   
+
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color: #3F3D56;
+    font-size: 32px;
+    font-weight: 500;
+
+}
+
+
+
+h1 span {
+    color: #EE24FF;
+}
+
+
+
+p {
+    color:  #828282;;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+
+p span {
+    color: #828282;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+
+p strong {
+    color: #3F3D56;
+}
+
+
+#footer a {
+    color: #3F3D56;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    
+
+}
